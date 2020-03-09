@@ -1,0 +1,263 @@
+.Header {
+  display: flex;
+  justify-content: space-around;
+  position:fixed;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
+}
+.hh{
+  display: flex;
+  justify-content: space-around;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+.petit{
+  width: 600px;
+  color: #00B89F;
+  font-size: 20px;
+  margin-top: 15px;
+  line-height: 60px;
+}
+.petit1{
+  display: flex;
+  justify-content: space-between;
+}
+.the{
+  Font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+Font-size: 34px;
+Font-weight: 300;
+Line-height: 44.2px;
+color: rgb(0, 179, 155);
+margin-left: 210px;
+}
+.wee{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+Font-size: 14px;
+Font-weight: 400;
+Line-height: 24px;
+color: rgb(116, 116, 116);
+margin-left: 210px;
+}
+.Petitcomponent1{
+  display: flex;
+  justify-content: space-around;
+}
+.World{
+  background-color: #D9F7F6;
+  display: flex;
+  justify-content: space-around;
+}
+.imp{
+  color: #00B39B;
+  margin-bottom: 40px;
+}
+.Improve{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  line-height: 2px;
+}
+.zz{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 200px 200px ;
+  justify-content: space-between;
+  
+}
+.zz:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2)
+}
+.zz1{
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+.roat{
+  width: 300px;
+}
+.roat1 p{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  text-align: center;
+}
+.roat1{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 600px;
+}
+.dispaly {
+  display: block;
+  
+}
+.hide  {
+  display: none;
+}
+.stylee{
+  display: flex;
+    justify-content: space-around;
+    padding-left: 80px;
+    padding-right: 80px;
+    position: fixed;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.1);
+    padding-top: 12px;
+    align-items: center;
+    font-weight: 400;
+    width: 100%;
+    background-color: white;
+    top: 0%;
+}
+.imagedoc{
+  width: 350px;
+  margin-left: -200px;
+}
+.list1{
+  list-style-type: none;
+  margin-left: -35px;
+}
+.button{
+  background-color: #1662C6;
+  color: #FFFFFF;
+  width: 100px;
+}
+.espace{
+display: flex;
+    width: 100px;
+    margin-right: -110px;
+  color:gray
+  }
+.listeheader{
+  display: flex;
+    justify-content: space-around;
+    width: 290px;
+
+}
+.dep{
+  position: absolute;
+  margin-top: -16px;
+  padding-right: 20px;
+    display: inline-block;
+}
+.display{
+  display: flex;
+  flex-direction: column;
+  border: 1px solid black;
+  background-color: white;
+  margin-top: -5px;
+  border: 1px;
+  padding: 1px;
+  box-shadow: 2px 2px 2px 2px #888888;
+  margin-left: -120px;
+}
+.para1{
+  display: flex;
+  justify-content: space-between;
+  width:1056px;
+  margin-left:170px;
+  color:#74748A;
+}
+.imgl{
+display: flex;
+justify-content: center;
+}
+.making{
+  display: flex;
+  justify-content: center;
+  color: #00b39b;
+}
+.section1{
+margin-top: 80px;
+}
+.jjj{
+  width: 550px;
+  overflow: hidden;
+  border-radius: 2%;
+  margin-left: 90px;
+}
+.p11{
+color: #A8E7CA;
+margin-left: 25px;
+}
+.p12{
+color: #FFF8E6;
+Font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 26px;
+font-weight: 300;
+Line-height: 33.8px;
+margin-left: 25px;
+}
+.imggg{
+  width: 400px;
+  margin-left: 240px;
+}
+.buttonselect{
+  width:170;
+  margin-left: 25px;
+}
+.weare{
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size: 26px;
+font-weight: 300px;
+Line-height: 33.8px;
+color: rgb(0, 179, 155);
+width: 182px;
+}
+
+.footer{
+  display: flex;
+  justify-content: center;
+}
+.a{
+  width: 235px;
+  height: 200px;
+  border-radius: 12px;
+  margin-top: 35px;
+  
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+font-size:13px;
+font-weight: 400;
+line-height: 16.9px;
+}
+.b{
+  width: 235px;
+  height: 200px;
+  border-radius: 12px;
+  margin-top: 10px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:13px;
+  font-weight: 400;
+  line-height: 16.9px;
+  
+}
+.c{
+  width: 235px;
+  height: 200px;
+  border-radius: 12px;
+
+  margin-top: 35px;
+
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:13px;
+  font-weight: 400;
+  line-height: 16.9px;
+}
+.d{
+  width: 235px;
+  height: 200px;
+  border-radius: 12px;
+  margin-top: 10px;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size:13px;
+  font-weight: 400;
+  line-height: 16.9px;
+}
+.imagefl{
+  margin-left: 100px;
+  margin-top: 10px;
+}
+.Footer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
